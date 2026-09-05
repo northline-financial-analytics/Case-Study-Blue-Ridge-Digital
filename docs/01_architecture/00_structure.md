@@ -22,18 +22,18 @@ blue-ridge-digital/
 │   │   
 │   └── processed/
 │
-├── model/
-│   └── Blue_Ridge_Digital_Financial_Model.xlsx
-│
-├── reports/
-│   └── Management_Recommendation.pdf
-│
 ├── docs/
 │   ├── 00_project/
 │   ├── 01_architecture/
 │   ├── 02_assumptions/
 │   ├── 03_methodology/
 │   └── 04_model_guide/
+│
+├── model/
+│   └── Blue_Ridge_Digital_Financial_Model.xlsx
+│
+├── reports/
+│   └── Management_Recommendation.pdf
 │
 └── images/
     ├── executive_dashboard.png
